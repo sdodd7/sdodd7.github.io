@@ -1,2 +1,2 @@
-# sdodd7.github.io
+# stephendodd.github.io
 My Octopress Blog
